@@ -6,7 +6,7 @@ title: About me
 
 My name is Siddhesh Deodhar.
 
-- I am background in Computer and Electrical Engineering
+- I have background in Computer and Electrical Engineering
 - I like travelling
 
 
