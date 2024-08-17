@@ -4,7 +4,7 @@ title: About me
 
 ---
 
-My name is Siddhesh Deodhar. I have the following qualities:
+My name is Siddhesh Deodhar.
 
 - I am background in Computer and Electrical Engineering
 - I like travelling
