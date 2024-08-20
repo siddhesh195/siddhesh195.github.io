@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
+title: Google Summer of Code 2024
 
 ---
 
-My name is Siddhesh Deodhar.
+Migrating Phantomjs to Chromote for running tests on GitHub Actions
 
-- I have background in Computer and Electrical Engineering
-- I like travelling
+- The objective of this task 
