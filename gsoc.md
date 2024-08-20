@@ -3,15 +3,14 @@ layout: page
 title: Google Summer of Code 2024
 ---
 
-# Google Summer of Code 2024
 
 During my participation in Google Summer of Code 2024, I completed three key tasks:
 
 1. **Migrate GitHub Actions Testing from PhantomJS to Chromote**  
-   This task involved transitioning the existing test suite from PhantomJS, which is deprecated, to Chromote, providing more reliable and up-to-date testing capabilities.
+   This task involved transitioning the existing test suite from PhantomJS to Chromote, providing more reliable and up-to-date testing capabilities.
 
 2. **Implement Screenshot Functionality for Plots**  
    Added a feature to capture and save screenshots of generated plots, enhancing the ability to share and document visual data representations.
 
-3. **Add Feature for Enabling User-Defined Layout**  
-   Developed a feature allowing users to define custom layouts, giving them more control over the appearance and organization of their content.
+3. **Add Feature for Enabling User-Defined Layout for plots**  
+   Developed a feature allowing users to define custom layouts, giving them more control over the appearance and organization of their plots
