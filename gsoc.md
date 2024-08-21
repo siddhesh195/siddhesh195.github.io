@@ -19,4 +19,4 @@ The detailed explanation for each of these tasks in below :
 
 1. **Add Feature for Enabling User-Defined Layout for plots**
    Example of the Custom Layout Feature:
-   ![User selected location of plots](images/custom_layout_html_table.png)
+   ![Custom Layout HTML Table](images/custom_layout_html_table.png)
