@@ -17,4 +17,4 @@ During my participation in Google Summer of Code 2024, I completed three key tas
 
 The detailed explanation for each of these tasks in below :
 
-1. ** Add Feature for Enabling User-Defined Layout for plots**  
+1. **Add Feature for Enabling User-Defined Layout for plots**  
